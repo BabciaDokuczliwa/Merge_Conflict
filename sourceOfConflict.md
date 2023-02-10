@@ -6,5 +6,6 @@
 - of
 - bullet
 - points
+- anything
 
 <p> There is no bug in this file.</p>
