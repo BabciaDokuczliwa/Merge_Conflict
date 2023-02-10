@@ -1,10 +1,10 @@
  ![banner](img/kitten.jpg)
 
- # Lorem ipsum sic header
+ # Better header
 
 * List
 * of
 * bullet
 * points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There is no bug in this file</p>
